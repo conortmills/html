@@ -4,9 +4,12 @@
 
 Type true/false in the provided [ ].
 
+
 a) [false] `<div><span>hello</div></span>`
 
 b) [false ]
+
+
 
 ```html
 <ul>
@@ -17,6 +20,11 @@ b) [false ]
 c) [false ] `<ul></ul><img/><ol><li>one</li></ol>`
 
 ## Q2 - What is a screenreader and why should we care about them?
+
+etc et cet cet 
+
+
+
 
 _Feel free to use the powers of Google here, but please provide link(s) to your source(s)_
 
